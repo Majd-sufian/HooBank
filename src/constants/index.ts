@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import {
   people01,
   people02,

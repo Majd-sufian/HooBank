@@ -26,16 +26,16 @@ interface Stats {
 
 interface FooterLinks {
   title: string;
-  links: {
+  links: Array<{
     name: string;
     link: string;
-  };
+  }>;
 }
 
 interface SocialMedia {
   id: string;
   icon: string;
-  logo: string;
+  link: string;
 }
 
 interface Clients {

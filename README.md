@@ -7,9 +7,9 @@ Built using:
 - Front-end library: React - Typescript
 - CSS framework: Tailwind
 
-### [Live Site]()
+### [Live Site](https://hoobank-majd-sufyan.netlify.app/)
 
-### [Figma Design]()
+### [Figma Design](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485)
 
 ![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank.png?raw=true)
 

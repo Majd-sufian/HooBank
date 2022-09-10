@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { quotes } from "../assets";
 import { Feedback } from "../types";
 
