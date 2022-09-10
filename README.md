@@ -11,7 +11,11 @@ Built using:
 
 ### [Figma Design]()
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank.png?raw=true)
+
+![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank2.png?raw=true)
+
+![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank3.png?raw=true)
 
 ## Scripts:
 
