@@ -13,7 +13,7 @@ Built using:
 
 ![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank.png?raw=true)
 
-![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank2.png?raw=true)
+![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hoobank2.png?raw=true)
 
 ![HooBank](https://github.com/Majd-sufian/HooBank/blob/main/src/assets/hooBank3.png?raw=true)
 
